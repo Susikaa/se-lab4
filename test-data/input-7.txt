@@ -1,0 +1,3 @@
+GT4500,0,0,2,0
+TORPEDO,SINGLE # 1. lövés: az elsődleges üres, ezért a másodlagosból tüzel (marad 1 torpedó)[cite: 1, 6]
+TORPEDO,SINGLE # 2. lövés: az elsődleges üres, így a másodlagosból tüzel megint (marad 0)[cite: 1, 6]

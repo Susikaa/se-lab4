@@ -1,0 +1,2 @@
+GT4500,0,0,2,0 # Elsődleges raktár üres (0), másodlagosban 2 torpedó van[cite: 7]
+TORPEDO,ALL    # ALL mód: az elsődleges if ága hamis, a másodlagos lefut[cite: 8]
