@@ -1,0 +1,2 @@
+GT4500,10,1,10,0
+TORPEDO,SINGLE # Ha a raktár hibát jelez, FAILURE a kimenet és nincs áttérés a másikra

@@ -1,0 +1,4 @@
+
+GT4500,10,0,10,0
+TORPEDO,SINGLE # 1. lövés az elsődleges raktárból
+TORPEDO,SINGLE # 2. lövés a másodlagos raktárból (hűtési idő miatti váltás)
